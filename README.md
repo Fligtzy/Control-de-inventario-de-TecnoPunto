@@ -21,13 +21,17 @@ Información del producto (código, nombre, precio, cantidad y valor total) o un
 ## Capturas de la ejecución
 
 ### Datos válidos
-![Datos válidos](capturas/valido.png)
+![Datos válidos]<img width="365" height="333" alt="image" src="https://github.com/user-attachments/assets/9dd126e1-74b9-49cf-bab7-405778daeb06" />
+
 
 ### Precio negativo
-![Precio negativo](capturas/precio-negativo.png)
+![Precio negativo]<img width="674" height="154" alt="image" src="https://github.com/user-attachments/assets/a354f806-f556-42a2-92b8-94a78a2160e6" />
+
 
 ### Nombre vacío
-![Nombre vacío](capturas/nombre-vacio.png)
+![Nombre vacío]<img width="678" height="151" alt="image" src="https://github.com/user-attachments/assets/971c8506-6558-4cc6-baf8-d588d3f8a06c" />
+
 
 ### Cantidad cero
-![Cantidad cero](capturas/cantidad-cero.png)
+![Cantidad cero]<img width="335" height="274" alt="image" src="https://github.com/user-attachments/assets/57f6b2ce-be1b-407e-99a6-b1f9df54bb6b" />
+
